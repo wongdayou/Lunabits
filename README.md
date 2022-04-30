@@ -1,2 +1,3 @@
 # Lunabits
-Gamejam 2022
+Singapore Global Gamejam 2022
+
